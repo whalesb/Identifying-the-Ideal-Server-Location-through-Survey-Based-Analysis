@@ -1,0 +1,2 @@
+# Identifying-the-Ideal-Server-Location-through-Survey-Based-Analysis
+This analysis explores respondent demographics and behaviors using a survey dataset. It groups responses by country and role, visualizes the main branch distribution with a pie chart, and filters by roles and hobbies. Age of coding start is grouped into age ranges, with bar and pie charts illustrating age distribution and country response data.
