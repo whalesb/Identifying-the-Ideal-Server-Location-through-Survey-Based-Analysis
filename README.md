@@ -7,7 +7,7 @@ The survey dataset provides valuable insights, including respondents’ countrie
 
 According to the survey conducted, we received responses demonstrating that 74.4% of the participants are currently professional programmers, which highlights the validity of our survey data.
 
-![devworldpic1](https://github.com/user-attachments/assets/c0b3cd4f-1919-4edc-9ece-29d7a332fd1e)
+![devworldpic1](https://github.com/whalesb/Identifying-the-Ideal-Server-Location-through-Survey-Based-Analysis/blob/main/devworldpic1.jpg)
 
 ![devworldpic1](https://github.com/user-attachments/assets/19a3ff4a-9de4-4503-b774-3fc532a813ce)
 The pie chart above illustrates the proportion of respondents who are professional programmers versus those who are not, further supporting the survey's accuracy and relevance.
