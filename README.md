@@ -6,6 +6,9 @@ The goal of this analysis is to determine the most suitable server location for 
 The survey dataset provides valuable insights, including respondents’ countries, their level of involvement in coding and development, and their age demographics. By grouping the data by country, we identified the United States, India, Germany, and Canada as the countries with the highest number of participants. Although other countries were involved, we prioritized these four based on their substantial respondent numbers. This segmentation is essential in understanding where DevWorld should focus its server deployment and service outreach.
 
 According to the survey conducted, we received responses demonstrating that 74.4% of the participants are currently professional programmers, which highlights the validity of our survey data.
+
+![devworldpic1](https://github.com/user-attachments/assets/c0b3cd4f-1919-4edc-9ece-29d7a332fd1e)
+
 ![devworldpic1](https://github.com/user-attachments/assets/19a3ff4a-9de4-4503-b774-3fc532a813ce)
 The pie chart above illustrates the proportion of respondents who are professional programmers versus those who are not, further supporting the survey's accuracy and relevance.
 
