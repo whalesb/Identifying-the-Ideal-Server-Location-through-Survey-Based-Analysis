@@ -9,7 +9,7 @@ According to the survey conducted, we received responses demonstrating that 74.4
 
 ![devworldpic1](https://github.com/whalesb/Identifying-the-Ideal-Server-Location-through-Survey-Based-Analysis/blob/main/devworldpic1.jpg)
 
-![devworldpic1](https://github.com/user-attachments/assets/19a3ff4a-9de4-4503-b774-3fc532a813ce)
+
 The pie chart above illustrates the proportion of respondents who are professional programmers versus those who are not, further supporting the survey's accuracy and relevance.
 
 ## Observations:
@@ -32,8 +32,6 @@ Given the survey data, we predict that deploying servers in the United States, I
 ## Conclusion:
 In conclusion, the analysis of the survey results highlights the United States, India, Germany, and Canada as ideal locations for **DevWorld**'s server deployment and service expansion. The United States, being the region with the highest response rate, will serve as **DevWorld**'s headquarters, while these four countries will guide the deployment of servers and infrastructure to ensure efficient access to **DevWorld**’s resources for the largest segment of the global tech community. As **DevWorld** evolves, these findings will guide infrastructure decisions and enable the delivery of high-quality services worldwide.
 
-## Conclusion:
-In conclusion, the analysis of the survey results clearly highlights the United States, India, Germany, and Canada as the most suitable locations for **DevWorld**’s initial server deployment and service expansion. The United States, with the highest number of survey respondents, will serve as the headquarters for DevWorld. This strategic choice leverages the significant tech presence in the region, providing a strong foundation for global operations.
 
 ![locations](https://github.com/user-attachments/assets/cdaa998c-75ee-4559-bc57-685c80e4055f)
 This visualization emphasizes why these countries were selected, as they represent the largest pool of potential users. By prioritizing these locations for server deployment, **DevWorld** aims to optimize accessibility and performance for its global community.
